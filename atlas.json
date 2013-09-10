@@ -1,0 +1,19 @@
+{
+  "files": [
+    "page/contributing.md",
+    "page/code-organization.md",
+    "page/effects/custom-effects.md",
+    "page/effects/intro-to-effects.md",
+    "page/effects/queue-and-dequeue-explained.md",
+    "page/effects/uses-of-queue-and-dequeue.md"
+  ],
+  "formats": {
+    "pdf": {
+      "version": "print"
+    },
+    "epub": {},
+    "mobi": {},
+    "html": {}
+  },
+  "theme": "oreillymedia/atlas_tech1c_theme"
+}
